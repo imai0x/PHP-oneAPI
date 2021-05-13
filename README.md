@@ -112,3 +112,14 @@ License
 -------
 
 This library is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
+## 🌱 Technologies and Frameworks
+<p>
+    <!-- PHP -->
+    <img src="https://img.shields.io/badge/PHP-777bb4?flat=plastic&logo=php&logoColor=white" height="32" alt="PHP" />
+    &nbsp;
+    <!-- Shell -->
+    <img src="https://img.shields.io/badge/Shell-ffd500?flat=plastic&logo=shell&logoColor=white" height="32" alt="Shell" />
+    &nbsp;
+</p>
+
